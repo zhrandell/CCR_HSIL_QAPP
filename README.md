@@ -17,7 +17,7 @@ The 2025 amended QAPP (generated as part of the yearly review) is the most up-to
   month        = {May},
   type         = {Quality Assurance Project Plan},
   address      = {Seattle, WA},
-  pages        = {1--76}
+  pages        = {1--33}
   doi          = {10.5281/zenodo.17064346},
   url          = {https://doi.org/10.5281/zenodo.17064346}
 }
