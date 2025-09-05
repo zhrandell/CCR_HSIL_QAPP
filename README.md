@@ -6,7 +6,7 @@ The purpose of this repo is to provide a public, citable homebase for our HSIL p
 - [linked here](https://github.com/zhrandell/CCR_HSIL_QAPP/tree/main/overview) are 1-pager overview documents providing a summary of this research
 
 ## Citation
-The 2025 amended QAPP (generated as part of the yearly review) is the most up-to-date version, and can be cited as follows 
+The 2025 amended QAPP (generated as part of the yearly review) is the most up-to-date version. It, along with the original 2024 QAPP, can be found on Zenodo at https://doi.org/10.5281/zenodo.17064346, and can be cited as follows 
 
 ```
 @techreport{Randell_QAPP,
